@@ -8,7 +8,7 @@ import time
 description = '''An example bot to showcase the discord.ext.commands extension module.
 There are a number of utility commands being showcased here.'''
 
-token = "your token here"
+token = "MTA1Mjc5Mzk0ODA4NDY0NTkzMQ.GqETAx.PB6UrhCSF3dh_XSvAbTFmyzw_6-Lo_-fikPov4"
 command_prefix = '$'
 
 intents = discord.Intents.default()
